@@ -1,0 +1,4 @@
+# DataPreProcessing
+DataPreProcessing by Matlab
+
+欠損あり、数値やシンボルが混在した固定次元のデータセットを機械学習に適用可能にする
